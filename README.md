@@ -29,3 +29,7 @@ You are asked to accomplish the following main tasks:
 ### Instructions
 
 #### Data Preprocessing
+
+#### Clustering Cryptocurrencies Using K-Means
+
+#### Visualizing Results
