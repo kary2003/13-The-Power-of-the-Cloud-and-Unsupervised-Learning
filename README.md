@@ -1,4 +1,5 @@
-The-Power-of-the-Cloud-and-Unsupervised-Learning
+## The-Power-of-the-Cloud-and-Unsupervised-Learning
+
 ![image](https://user-images.githubusercontent.com/70820754/104392424-44a52780-54ff-11eb-8adc-9477f47c36e4.png)
 
 ### Background
@@ -21,7 +22,7 @@ You are asked to accomplish the following main tasks:
 
 ### Files
 
-* [crypto_clustering.ipynb](Starter_Files/crypto_clustering.ipynb)
+* [crypto_clustering.ipynb](https://github.com/kary2003/13-The-Power-of-the-Cloud-and-Unsupervised-Learning/blob/main/Crypto%20Clustering.ipynb)
 
 ---
 
